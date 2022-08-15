@@ -1,2 +1,2 @@
 # Vending-machine
-I made this project using verilog code
+I made this project using system verilog code
